@@ -1,0 +1,2 @@
+# vassalogre
+play Ogre
